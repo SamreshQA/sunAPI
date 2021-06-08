@@ -14,8 +14,8 @@ Developed a simple framework which should support to develop automation test scr
 # Steps to start :
 
 1. Clone / Download the project into your local
-2. Open the Command prompt and navigat to project location
-3. Execute the following Maven command's
+2. Open the Command prompt and navigate to project location
+3. Execute the following Maven commands
     - mvn clean :- To clean the maven repo
     - mvn install :- To install the maven requirments 
     - mvn test :- To execute the test scenarios
